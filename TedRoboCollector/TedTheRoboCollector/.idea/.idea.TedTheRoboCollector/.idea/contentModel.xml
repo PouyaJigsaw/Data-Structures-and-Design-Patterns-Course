@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TedTheRoboCollector.-1661104117.00" t="ExcludeRecursive" />
+    <e p="P:\Game Development\Coursera\TedRoboCollector\TedTheRoboCollector" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scripts" t="Include">
+          <e p="Collector.cs" t="Include" />
+          <e p="events" t="Include">
+            <e p="EventManager.cs" t="Include" />
+            <e p="PickupSpawnedEvent.cs" t="Include" />
+            <e p="TimerFinishedEvent.cs" t="Include" />
+          </e>
+          <e p="PickupSpawner.cs" t="Include" />
+          <e p="SortedList.cs" t="Include" />
+          <e p="Target.cs" t="Include" />
+          <e p="Test.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TedTheRoboCollector.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

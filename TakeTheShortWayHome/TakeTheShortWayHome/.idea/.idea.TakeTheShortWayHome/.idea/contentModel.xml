@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jigsaw\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TakeTheShortWayHome.1155909313.00" t="ExcludeRecursive" />
+    <e p="P:\Game Development\Coursera\TakeTheShortWayHome\TakeTheShortWayHome" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scripts" t="Include">
+          <e p="EdgeRenderer.cs" t="Include" />
+          <e p="EventManager.cs" t="Include" />
+          <e p="Explosion.cs" t="Include" />
+          <e p="Graph.cs" t="Include" />
+          <e p="GraphBuilder.cs" t="Include" />
+          <e p="GraphNode.cs" t="Include" />
+          <e p="HUD.cs" t="Include" />
+          <e p="PathFoundEvent.cs" t="Include" />
+          <e p="PathTraversalCompleteEvent.cs" t="Include" />
+          <e p="SearchNode.cs" t="Include" />
+          <e p="SortedLinkedList.cs" t="Include" />
+          <e p="Traveler.cs" t="Include" />
+          <e p="Waypoint.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TakeTheShortWayHome.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
